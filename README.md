@@ -6,4 +6,4 @@ Assignments include:
 * Heap allocator written in C
 * Pathfinder (Kruskal and Dijkstra's algorithms) in C++
 * Huffman Encoder (Huffman encoding algorithm) in C++
-* Crash Reporter (Prints stack backtrace to report runtime crash) in C
+* Crash Reporter (Prints stack backtrace to report runtime crashes) in C
